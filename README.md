@@ -1,5 +1,4 @@
-# pogaca-nerede-kart-oyunu
-
+#Where is my cat (Card Game)
 > A Vue.js project
 
 ## Build Setup
